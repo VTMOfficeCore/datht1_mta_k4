@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayMenu", "arrayMenu\arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_13_TienDienThoai", "BT_13_TienDienThoai\BT_13_TienDienThoai.csproj", "{C665D453-6D61-4558-AC37-8C6D32C572D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_ArrayMax", "BT_ArrayMax\BT_ArrayMax.csproj", "{104CB6D5-A3B1-4E25-903C-2A7B520FB544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{2E7ABD05-6D03-4169-8CFA-B4FBCAAD7875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C665D453-6D61-4558-AC37-8C6D32C572D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C665D453-6D61-4558-AC37-8C6D32C572D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C665D453-6D61-4558-AC37-8C6D32C572D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104CB6D5-A3B1-4E25-903C-2A7B520FB544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104CB6D5-A3B1-4E25-903C-2A7B520FB544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104CB6D5-A3B1-4E25-903C-2A7B520FB544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104CB6D5-A3B1-4E25-903C-2A7B520FB544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7ABD05-6D03-4169-8CFA-B4FBCAAD7875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7ABD05-6D03-4169-8CFA-B4FBCAAD7875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7ABD05-6D03-4169-8CFA-B4FBCAAD7875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7ABD05-6D03-4169-8CFA-B4FBCAAD7875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

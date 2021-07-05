@@ -1,0 +1,6 @@
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\array\bin\Debug\array.exe.config
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\array\bin\Debug\array.exe
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\array\bin\Debug\array.pdb
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\array\obj\Debug\array.exe
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\array\obj\Debug\array.pdb
