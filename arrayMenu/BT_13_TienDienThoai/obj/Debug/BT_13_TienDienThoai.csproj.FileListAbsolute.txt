@@ -1,0 +1,10 @@
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_13_TienDienThoai\bin\Debug\BT_13_TienDienThoai.exe
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_13_TienDienThoai\bin\Debug\BT_13_TienDienThoai.pdb
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_13_TienDienThoai\obj\Debug\BT_13_TienDienThoai.csprojResolveAssemblyReference.cache
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_13_TienDienThoai\obj\Debug\BT_13_TienDienThoai.exe
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_13_TienDienThoai\obj\Debug\BT_13_TienDienThoai.pdb
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\BT_13_TienDienThoai\bin\Debug\BT_13_TienDienThoai.exe
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\BT_13_TienDienThoai\bin\Debug\BT_13_TienDienThoai.pdb
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\BT_13_TienDienThoai\obj\Debug\BT_13_TienDienThoai.csprojResolveAssemblyReference.cache
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\BT_13_TienDienThoai\obj\Debug\BT_13_TienDienThoai.exe
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\BT_13_TienDienThoai\obj\Debug\BT_13_TienDienThoai.pdb

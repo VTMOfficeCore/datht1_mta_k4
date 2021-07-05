@@ -4,3 +4,9 @@ c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\bin\De
 c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\obj\Debug\arrayMenu.csprojResolveAssemblyReference.cache
 c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\obj\Debug\arrayMenu.exe
 c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\obj\Debug\arrayMenu.pdb
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\arrayMenu\bin\Debug\arrayMenu.exe.config
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\arrayMenu\obj\Debug\arrayMenu.exe
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\arrayMenu\obj\Debug\arrayMenu.pdb
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\arrayMenu\bin\Debug\arrayMenu.exe
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\arrayMenu\bin\Debug\arrayMenu.pdb
+F:\MTA\datht1_mta_k4\datht1_mta_k4\arrayMenu\arrayMenu\obj\Debug\arrayMenu.csprojResolveAssemblyReference.cache

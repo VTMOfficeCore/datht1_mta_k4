@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayMenu", "arrayMenu\arrayMenu.csproj", "{BDF41173-A2D4-4A82-A088-F5EEF3B2F150}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_13_TienDienThoai", "BT_13_TienDienThoai\BT_13_TienDienThoai.csproj", "{C665D453-6D61-4558-AC37-8C6D32C572D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BDF41173-A2D4-4A82-A088-F5EEF3B2F150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF41173-A2D4-4A82-A088-F5EEF3B2F150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF41173-A2D4-4A82-A088-F5EEF3B2F150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C665D453-6D61-4558-AC37-8C6D32C572D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C665D453-6D61-4558-AC37-8C6D32C572D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C665D453-6D61-4558-AC37-8C6D32C572D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C665D453-6D61-4558-AC37-8C6D32C572D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_ArrayMax\bin\Debug\BT_ArrayMax.exe
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_ArrayMax\bin\Debug\BT_ArrayMax.pdb
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_ArrayMax\obj\Debug\BT_ArrayMax.csprojResolveAssemblyReference.cache
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_ArrayMax\obj\Debug\BT_ArrayMax.exe
+E:\Document\MTA - learning\Buoi1\bai3\BT_ArrayMax\BT_ArrayMax\obj\Debug\BT_ArrayMax.pdb
