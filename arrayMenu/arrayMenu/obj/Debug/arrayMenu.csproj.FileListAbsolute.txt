@@ -1,0 +1,6 @@
+c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\bin\Debug\arrayMenu.exe.config
+c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\bin\Debug\arrayMenu.exe
+c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\bin\Debug\arrayMenu.pdb
+c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\obj\Debug\arrayMenu.csprojResolveAssemblyReference.cache
+c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\obj\Debug\arrayMenu.exe
+c:\users\datht1\documents\visual studio 2015\Projects\arrayMenu\arrayMenu\obj\Debug\arrayMenu.pdb
